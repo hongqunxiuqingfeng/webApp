@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "zhangshuilian"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "zhangshuilian"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "zhangshuilian"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "zhangshuilian"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "zhangshuilian"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "zhangshuilian"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "zhangshuilian"
+        }
+    }
+}
